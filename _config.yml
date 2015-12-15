@@ -1,7 +1,7 @@
 name: Sven
 favicon: null
-layout_spectrum: 0.13537508179433644
-typography_spectrum: 0.4866280520800501
+layout_spectrum: 0.35881
+typography_spectrum: 0.31224
 title: Comme un ruisseau
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.00923119718208909
-  lightness: 0.5452949157916009
-  saturation: 0.051771904807537794
-  rhythmicContrast: 0.9225479217711836
+    - '#070b17'
+    - '#354d7d'
+    - '#e6f8fc'
+    - '#89a4cf'
+    - '#de4f3e'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
