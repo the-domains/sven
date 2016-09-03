@@ -17,18 +17,21 @@ keywords:
   - artist
   - favourite
   - bug
-description: "Be the first to try out our new desktop app and give us your feedback! See more You'll never need more than one music player open again. Once installed, Deezer for Windows imports your music from anywhere (including from iTunes, Amazon, Windows Media Player, and your own MP3s) in just one click."
+description: >-
+  Be the first to try out our new desktop app and give us your feedback! See
+  more You'll never need more than one music player open again. Once installed,
+  Deezer for Windows imports your music from anywhere (including from iTunes,
+  Amazon, Windows Media Player, and your own MP3s) in just one click.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.deezer.com/beta/forwindows'
 title: Deezer for Windows
-datePublished: '2015-12-15T17:03:25.151Z'
-dateModified: '2015-12-15T17:02:07.995Z'
+datePublished: '2016-08-31T20:48:32.797Z'
+dateModified: '2016-08-31T20:48:32.331Z'
 sourcePath: _posts/2015-12-15-deezer-for-windows.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: deezer-for-windows/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
