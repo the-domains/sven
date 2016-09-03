@@ -1,20 +1,4 @@
-name: Sven
-favicon: null
-layout_spectrum: 0.35881
 typography_spectrum: 0.31224
-title: Comme un ruisseau
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#070b17'
@@ -26,4 +10,21 @@ color:
   lightness: 0.375
   saturation: 0.4375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35881
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Sven
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Comme un ruisseau
+description: mieux ici qu'ailleurs
 purpose: []
