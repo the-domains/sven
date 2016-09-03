@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Deezer for Windows
+    id: 8fb465d9-ffcc-4d06-9c27-49ae97dfdd10
+    type: content
 favicon: null
 title: Comme un ruisseau
 description: mieux ici qu'ailleurs
